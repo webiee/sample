@@ -1,0 +1,122 @@
+{
+ "currentVersion": 10.3,
+ "serviceDescription": "",
+ "mapName": "Layers",
+ "description": "",
+ "copyrightText": "",
+ "supportsDynamicLayers": false,
+ "layers": [
+  {
+   "id": 0,
+   "name": "COAST_LINE_Erase",
+   "parentLayerId": -1,
+   "defaultVisibility": true,
+   "subLayerIds": null,
+   "minScale": 0,
+   "maxScale": 0
+  }
+ ],
+ "tables": [],
+ "spatialReference": {"wkt": "PROJCS[\"SVY21\",GEOGCS[\"SVY21[WGS84]\",DATUM[\"D_WGS_1984\",SPHEROID[\"WGS_1984\",6378137.0,298.257223563]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"False_Easting\",28001.642],PARAMETER[\"False_Northing\",38744.572],PARAMETER[\"Central_Meridian\",103.8333333333333],PARAMETER[\"Scale_Factor\",1.0],PARAMETER[\"Latitude_Of_Origin\",1.366666666666667],UNIT[\"Meter\",1.0]]"},
+ "singleFusedMapCache": true,
+ "tileInfo": {
+  "rows": 256,
+  "cols": 256,
+  "dpi": 96,
+  "format": "JPEG",
+  "compressionQuality": 80,
+  "origin": {
+   "x": -5878011.89743302,
+   "y": 1.0172511897433E7
+  },
+  "spatialReference": {"wkt": "PROJCS[\"SVY21\",GEOGCS[\"SVY21[WGS84]\",DATUM[\"D_WGS_1984\",SPHEROID[\"WGS_1984\",6378137.0,298.257223563]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"False_Easting\",28001.642],PARAMETER[\"False_Northing\",38744.572],PARAMETER[\"Central_Meridian\",103.8333333333333],PARAMETER[\"Scale_Factor\",1.0],PARAMETER[\"Latitude_Of_Origin\",1.366666666666667],UNIT[\"Meter\",1.0]]"},
+  "lods": [
+   {
+    "level": 0,
+    "resolution": 76.43721954110575,
+    "scale": 288896
+   },
+   {
+    "level": 1,
+    "resolution": 38.218609770552874,
+    "scale": 144448
+   },
+   {
+    "level": 2,
+    "resolution": 19.109304885276437,
+    "scale": 72224
+   },
+   {
+    "level": 3,
+    "resolution": 9.554652442638218,
+    "scale": 36112
+   },
+   {
+    "level": 4,
+    "resolution": 4.777326221319109,
+    "scale": 18056
+   },
+   {
+    "level": 5,
+    "resolution": 2.3886631106595546,
+    "scale": 9028
+   },
+   {
+    "level": 6,
+    "resolution": 1.1943315553297773,
+    "scale": 4514
+   },
+   {
+    "level": 7,
+    "resolution": 0.5971657776648887,
+    "scale": 2257
+   },
+   {
+    "level": 8,
+    "resolution": 0.2984505969011938,
+    "scale": 1128
+   }
+  ]
+ },
+ "initialExtent": {
+  "xmin": 451.9176415554066,
+  "ymin": 38438.83885592259,
+  "xmax": 43142.104755262975,
+  "ymax": 49254.705420989056,
+  "spatialReference": {
+   "cs": "pcs",
+   "wkt": "PROJCS[\"SVY21\",GEOGCS[\"SVY21[WGS84]\",DATUM[\"D_WGS_1984\",SPHEROID[\"WGS_1984\",6378137.0,298.257223563]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"False_Easting\",28001.642],PARAMETER[\"False_Northing\",38744.572],PARAMETER[\"Central_Meridian\",103.8333333333333],PARAMETER[\"Scale_Factor\",1.0],PARAMETER[\"Latitude_Of_Origin\",1.366666666666667],UNIT[\"Meter\",1.0]]"
+  }
+ },
+ "fullExtent": {
+  "xmin": 0,
+  "ymin": 15830.506124999374,
+  "xmax": 65000,
+  "ymax": 55000,
+  "spatialReference": {
+   "cs": "pcs",
+   "wkt": "PROJCS[\"SVY21\",GEOGCS[\"SVY21[WGS84]\",DATUM[\"D_WGS_1984\",SPHEROID[\"WGS_1984\",6378137.0,298.257223563]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"False_Easting\",28001.642],PARAMETER[\"False_Northing\",38744.572],PARAMETER[\"Central_Meridian\",103.8333333333333],PARAMETER[\"Scale_Factor\",1.0],PARAMETER[\"Latitude_Of_Origin\",1.366666666666667],UNIT[\"Meter\",1.0]]"
+  }
+ },
+ "minScale": 288896,
+ "maxScale": 1128,
+ "units": "esriMeters",
+ "supportedImageFormatTypes": "PNG32,PNG24,PNG,JPG,DIB,TIFF,EMF,PS,PDF,GIF,SVG,SVGZ,BMP",
+ "documentInfo": {
+  "Title": "",
+  "Author": "",
+  "Comments": "",
+  "Subject": "",
+  "Category": "",
+  "AntialiasingMode": "None",
+  "TextAntialiasingMode": "Force",
+  "Keywords": ""
+ },
+ "capabilities": "Map,Query,Data",
+ "supportedQueryFormats": "JSON, AMF",
+ "exportTilesAllowed": false,
+ "maxRecordCount": 1000,
+ "maxImageHeight": 4096,
+ "maxImageWidth": 4096,
+ "supportedExtensions": ""
+}
